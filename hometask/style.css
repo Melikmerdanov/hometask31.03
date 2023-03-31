@@ -1,0 +1,212 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 10000px;
+    background-color: black;
+
+}
+.nav1{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+.nav1>img{
+width: 200px;
+height: 40px;
+margin-top: 20px;
+margin-left: 30px;
+}
+.nav1>i{
+    color: white;
+}.nav2{
+    background-color: #76b400;
+    width: 100%;
+    height: 90px;
+}
+.categoris{
+    display: flex;
+    gap: 10px;
+}
+.categoris>p{
+    display: flex;
+    cursor: pointer;
+    color: white;
+    margin-left: 30px;
+    margin-top: 40px;
+    font-weight: 25px;
+    
+}
+.categoris>input{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 25px;
+    margin-left: 100px;
+    border: 0.001px solid #76b400;
+    text-align: center;
+}
+.categoris>i{
+    margin-top: 30px;
+}
+img{
+    width: 100%;
+    height: 590px;
+}
+.secrion2{
+}
+.section2>h2{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    
+}
+.mehsullar{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.mehsul1{
+    width: 20%;
+    height: 400px;
+    text-align: center;
+}
+.mehsul1>img{
+    width: 250px;
+    height: 170px;
+    cursor: pointer;
+}
+.mehsul2{
+    width: 20%;
+    height: 400px;
+    text-align: center;
+
+}
+.mehsul2>img{
+    width: 250px;
+    height: 170px;
+    cursor: pointer;
+}
+.mehsul3{
+    width: 20%;
+    height: 400px;
+    text-align: center;
+
+}
+.mehsul3>img{
+    width: 250px;
+    height: 170px;
+    cursor: pointer;
+}
+.mehsul4{
+    width: 20%;
+    height: 400px;
+    text-align: center;
+
+}
+.mehsul4>img{
+    width: 250px;
+    height: 170px;
+    cursor: pointer;
+}
+.mehsullar2{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: -200px;
+}
+.mehsul5{
+    width: 20%;
+    height: 400px;
+    text-align: center;
+
+}
+.mehsul5>img{
+    width: 250px;
+    height: 170px;
+    cursor: pointer;
+}
+.mehsul6{
+    width: 20%;
+    height: 400px;
+    text-align: center;
+
+}
+.mehsul6>img{
+    width: 250px;
+    height: 170px;
+    cursor: pointer;
+}
+.mehsul7{
+    width: 20%;
+    height: 400px;
+    text-align: center;
+
+}
+.mehsul7>img{
+    width: 250px;
+    height: 170px;
+    cursor: pointer;
+}
+.mehsul8{
+    width: 20%;
+    height: 400px;
+    text-align: center;
+
+}
+.mehsul8>img{
+    width: 250px;
+    height: 170px;
+    cursor: pointer;
+}
+.mehsul1>h6{
+    text-align: start;
+    margin-top: 150px;
+    color: white;
+    cursor: pointer;
+}
+.mehsul2>h6{
+    text-align: start;
+    margin-top: 150px;
+    color: white;
+    cursor: pointer;
+}
+.mehsul3>h6{
+    text-align: start;
+    margin-top: 150px;
+    color: white;
+    cursor: pointer;
+}
+.mehsul4>h6{
+    text-align: start;
+    margin-top: 150px;
+    color: white;
+    cursor: pointer;
+}
+.mehsul5>h6{
+    text-align: start;
+    margin-top: 150px;
+    color: white;
+    cursor: pointer;
+}
+.mehsul6>h6{
+    text-align: start;
+    margin-top: 150px;
+    color: white;
+    cursor: pointer;
+}
+.mehsul7>h6{
+    text-align: start;
+    margin-top: 150px;
+    color: white;
+    cursor: pointer;
+}
+.mehsul8>h6{
+    text-align: start;
+    margin-top: 150px;
+    color: white;
+    cursor: pointer;
+}
